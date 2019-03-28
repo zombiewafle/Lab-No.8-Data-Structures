@@ -3,6 +3,7 @@ package Classes;
 //This class provides the information of the patients. And determinate
 // the priority of the symptoms.
 
+
 public class DataPatient implements Comparable<DataPatient> {
 
     String name, symptoms, priority;
